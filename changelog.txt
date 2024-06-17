@@ -1,9 +1,0 @@
-a0.1
-- Initial Mod Pack Release
-
-a0.1a
-- Added «Custom Stars» mod
-- Tweaked Dynaimc Surroundings config
-- Removed «C4Music» Resource Pack
-- Added custom panorama screen
-- Moved credits text to the right side
